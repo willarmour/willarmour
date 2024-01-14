@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an university educator in the UNSW Engineering Education team with a passion for improving learning experiences for students.
+
 <!--
 **willarmour/willarmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
